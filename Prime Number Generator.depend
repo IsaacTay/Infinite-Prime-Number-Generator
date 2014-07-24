@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1406081772 source:g:\prime number generator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1406172930 source:d:\prime number generator\main.c
+	<stdio.h>
+	<stdlib.h>
+
