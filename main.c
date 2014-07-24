@@ -21,7 +21,7 @@ int main()
                         Primes[i2] = num;
                         i2 = i2 + 1;
                         i = -1;
-                        printf("%ld. %ld\n", i2, num + 1);
+                        printf("%ld. %ld\n", i2, num);
                     }
                 }
                 else {
